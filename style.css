@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgray;
+}
+.posts__wrapper{
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+.post__title{
+    font-weight: 700;
+}
+.post__link{
+    color: royalblue;
+    text-decoration: none;
+}
+.post__link:hover{
+    color: royalblue;
+}
+.post__author{
+    color: royalblue;
+}
